@@ -1,0 +1,257 @@
+Logging in build 2015.1.1.21 started at: Fri Mar 04 01:32:06 2016
+========================================
+[00:04:00.860] 01:36:22.811 | quitWithUI:Quitting Application. Called by: 
+[00:04:00.860] 01:36:22.813 | Quitting Application after 3.7 minutes. Called by: 
+
+==========
+Logging ended at: Fri Mar 04 01:36:31 2016
+
+Logging in build 2015.1.1.21 started at: Fri Mar 04 20:12:20 2016
+========================================
+[00:36:08.984] 21:48:40.967 | Beginning SaveAs of 'Веб-сайт-2' to file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:114
+[00:36:10.765] 21:48:42.776 | SaveAs complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:1114112 mod Date:Fri Mar 4 21:48:42 GMT+0400 2016 highest UID:114
+[00:38:31.562] 21:51:03.562 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:114
+[00:38:32.406] 21:51:04.417 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:1114112 mod Date:Fri Mar 4 21:51:04 GMT+0400 2016 highest UID:114
+[00:58:02.281] 22:10:34.281 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:149
+[00:58:03.453] 22:10:35.457 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:2260992 mod Date:Fri Mar 4 22:10:34 GMT+0400 2016 highest UID:149
+[01:03:29.859] 22:16:01.872 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:149
+[01:03:30.687] 22:16:02.692 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:2260992 mod Date:Fri Mar 4 22:16:02 GMT+0400 2016 highest UID:149
+[01:17:00.062] 22:29:32.074 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:205
+[01:17:01.109] 22:29:33.122 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:3932160 mod Date:Fri Mar 4 22:29:32 GMT+0400 2016 highest UID:205
+[01:22:29.046] 22:35:01.053 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:228
+[01:22:30.375] 22:35:02.377 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:3964928 mod Date:Fri Mar 4 22:35:01 GMT+0400 2016 highest UID:228
+[01:35:13.187] 22:47:45.195 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:456
+[01:35:15.000] 22:47:47.009 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6193152 mod Date:Fri Mar 4 22:47:46 GMT+0400 2016 highest UID:456
+[01:47:29.375] 23:00:01.383 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:473
+[01:47:30.359] 23:00:02.363 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6225920 mod Date:Fri Mar 4 23:00:01 GMT+0400 2016 highest UID:473
+[01:51:57.062] 23:04:29.073 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:489
+[01:51:58.078] 23:04:30.085 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6225920 mod Date:Fri Mar 4 23:04:29 GMT+0400 2016 highest UID:489
+[02:11:19.750] 23:23:51.754 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:512
+[02:11:20.781] 23:23:52.792 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6258688 mod Date:Fri Mar 4 23:23:52 GMT+0400 2016 highest UID:512
+[02:39:46.390] 23:52:18.394 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:602
+[02:39:47.390] 23:52:19.392 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6586368 mod Date:Fri Mar 4 23:52:18 GMT+0400 2016 highest UID:602
+[02:55:21.390] 00:07:53.393 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:1017
+[02:55:22.734] 00:07:54.746 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6946816 mod Date:Sat Mar 5 00:07:54 GMT+0400 2016 highest UID:1017
+[03:08:55.578] 00:21:27.580 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:1051
+[03:08:56.656] 00:21:28.662 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6946816 mod Date:Sat Mar 5 00:21:28 GMT+0400 2016 highest UID:1051
+[03:11:30.000] 00:24:02.011 | Received 400 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//muse_manifest.xml responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//muse_manifest.xml
+[03:11:30.000] 00:24:02.012 | Header: Server: openresty/1.7.4.1
+[03:11:30.000] 00:24:02.012 | Header: Date: Fri, 04 Mar 2016 20:24:03 GMT
+[03:11:30.000] 00:24:02.012 | Header: Content-Type: application/json
+[03:11:30.000] 00:24:02.012 | Header: Content-Length: 15
+[03:11:30.000] 00:24:02.012 | Header: Connection: keep-alive
+[03:11:30.000] 00:24:02.012 | Header: Cache-Control: private
+[03:11:30.000] 00:24:02.012 | Header: Access-Control-Allow-Origin: *
+[03:11:30.000] 00:24:02.012 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[03:11:30.000] 00:24:02.013 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[03:11:30.000] 00:24:02.013 | Header: Access-Control-Expose-Headers: Location
+[03:11:30.000] 00:24:02.013 | Header: Access-Control-Max-Age: 99999
+[03:11:30.000] 00:24:02.013 | Data:
+{"code":104002}
+[03:11:32.796] 00:24:04.808 | Received 400 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:11:32.796] 00:24:04.808 | Header: Server: openresty/1.7.4.1
+[03:11:32.796] 00:24:04.808 | Header: Date: Fri, 04 Mar 2016 20:24:06 GMT
+[03:11:32.796] 00:24:04.809 | Header: Content-Type: application/json
+[03:11:32.796] 00:24:04.809 | Header: Content-Length: 15
+[03:11:32.796] 00:24:04.809 | Header: Connection: keep-alive
+[03:11:32.796] 00:24:04.809 | Header: Cache-Control: private
+[03:11:32.796] 00:24:04.809 | Header: Access-Control-Allow-Origin: *
+[03:11:32.796] 00:24:04.809 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[03:11:32.796] 00:24:04.809 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[03:11:32.796] 00:24:04.809 | Header: Access-Control-Expose-Headers: Location
+[03:11:32.796] 00:24:04.810 | Header: Access-Control-Max-Age: 99999
+[03:11:32.796] 00:24:04.810 | Data:
+{"code":104002}
+[03:12:49.750] 00:25:21.758 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:12:49.750] 00:25:21.760 | DataError:0 at adub:
+[03:12:49.765] 00:25:21.769 | AutoResuming publish after error:Ошибка при передаче файла lu2a6943.jpg. Сервер не отвечает. Проверьте подключение к Интернету и повторите попытку. Если проблема не устранена, повторите попытку позднее. percent complete:63.69230769230769 previous autoresume percent complete:0
+[03:12:49.781] 00:25:21.781 | AssertInDebug: More than one call to SiteFile.getBinaryContent? (This isn't an error if it happens after resuming an upload)-
+[03:13:13.000] 00:25:45.009 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:13:13.000] 00:25:45.012 | DataError:0 at adub:
+[03:13:28.562] 00:26:00.572 | AssertInDebug: More than one call to SiteFile.getBinaryContent? (This isn't an error if it happens after resuming an upload)-
+[03:14:19.250] 00:26:51.259 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:14:19.250] 00:26:51.261 | DataError:0 at adub:
+[03:14:51.437] 00:27:23.447 | AssertInDebug: More than one call to SiteFile.getBinaryContent? (This isn't an error if it happens after resuming an upload)-
+[03:15:33.578] 00:28:05.580 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:15:33.578] 00:28:05.583 | DataError:0 at adub:
+[03:15:58.687] 00:28:30.698 | AssertInDebug: More than one call to SiteFile.getBinaryContent? (This isn't an error if it happens after resuming an upload)-
+[03:16:19.843] 00:28:51.845 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:16:19.843] 00:28:51.847 | DataError:0 at adub:
+[03:19:01.531] 00:31:33.531 | AssertInDebug: More than one call to SiteFile.getBinaryContent? (This isn't an error if it happens after resuming an upload)-
+[03:19:01.671] 00:31:33.684 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:19:01.671] 00:31:33.685 | DataError:0 at adub:
+[03:19:02.812] 00:31:34.817 | AssertInDebug: More than one call to SiteFile.getBinaryContent? (This isn't an error if it happens after resuming an upload)-
+[03:19:02.968] 00:31:34.970 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[03:19:02.968] 00:31:34.971 | DataError:0 at adub:
+[03:23:38.343] 00:36:10.351 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:1071
+[03:23:39.859] 00:36:11.867 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6946816 mod Date:Sat Mar 5 00:36:11 GMT+0400 2016 highest UID:1071
+[03:25:52.062] 00:38:24.070 | REST error:0/0 for API:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/domains
+[03:25:52.062] 00:38:24.071 | DataError:0 at adub:
+[03:25:52.062] 00:38:24.073 | Publish Введение(2 pages) to 'http://my1diesign.businesscatalyst.com' failed with error 0:[IOErrorEvent type="ioError" bubbles=false cancelable=false eventPhase=2 text="Error #2032" errorID=2032]
+[03:26:41.687] 00:39:13.689 | Beginning Save for file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:1071
+[03:26:42.625] 00:39:14.638 | Save complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6946816 mod Date:Sat Mar 5 00:39:14 GMT+0400 2016 highest UID:1071
+[03:29:46.421] 00:42:18.426 | Beginning SaveAs of 'Введение' to file 'C:\Users\akrazer\Desktop\Введение.muse' highest UID:1071
+[03:29:48.140] 00:42:20.142 | SaveAs complete for file 'C:\Users\akrazer\Desktop\Введение.muse' file size:6750208 mod Date:Sat Mar 5 00:42:19 GMT+0400 2016 highest UID:1071
+[03:29:55.015] 00:42:27.029 | quitWithUI:Quitting Application. Called by: 
+[03:29:56.718] 00:42:28.721 | Quitting Application after 269.8 minutes. Called by: 
+
+==========
+Logging ended at: Sat Mar 05 00:42:38 2016
+
+Logging in build 2015.1.1.21 started at: Sat Mar 05 02:00:39 2016
+========================================
+[00:00:25.922] 02:01:09.525 | Trying to open file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse with size:6750208 mod Date:Sat Mar 5 00:42:19 GMT+0400 2016
+[00:00:25.922] 02:01:09.532 | Opening file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' with status:success size:6750208 mod Date:Sat Mar 5 00:42:19 GMT+0400 2016 highestUID: 1071
+[00:25:11.469] 02:25:55.068 | Beginning Save for file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' highest UID:1228
+[00:25:13.078] 02:25:56.686 | Save complete for file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' file size:6914048 mod Date:Sat Mar 5 02:25:56 GMT+0400 2016 highest UID:1228
+[00:25:22.031] 02:26:05.642 | Received 400 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/muse_manifest.xml responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/muse_manifest.xml
+[00:25:22.031] 02:26:05.642 | Header: Server: openresty/1.7.4.1
+[00:25:22.031] 02:26:05.643 | Header: Date: Fri, 04 Mar 2016 23:26:10 GMT
+[00:25:22.031] 02:26:05.643 | Header: Content-Type: application/json
+[00:25:22.031] 02:26:05.643 | Header: Content-Length: 15
+[00:25:22.031] 02:26:05.643 | Header: Connection: keep-alive
+[00:25:22.031] 02:26:05.644 | Header: Cache-Control: private
+[00:25:22.031] 02:26:05.644 | Header: Access-Control-Allow-Origin: *
+[00:25:22.031] 02:26:05.644 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[00:25:22.031] 02:26:05.644 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[00:25:22.031] 02:26:05.644 | Header: Access-Control-Expose-Headers: Location
+[00:25:22.031] 02:26:05.644 | Header: Access-Control-Max-Age: 99999
+[00:25:22.031] 02:26:05.644 | Data:
+{"code":104002}
+[00:25:24.531] 02:26:08.139 | Received 400 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//muse_manifest.xml responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//muse_manifest.xml
+[00:25:24.531] 02:26:08.139 | Header: Server: openresty/1.7.4.1
+[00:25:24.531] 02:26:08.140 | Header: Date: Fri, 04 Mar 2016 23:26:13 GMT
+[00:25:24.531] 02:26:08.140 | Header: Content-Type: application/json
+[00:25:24.531] 02:26:08.140 | Header: Content-Length: 15
+[00:25:24.531] 02:26:08.140 | Header: Connection: keep-alive
+[00:25:24.531] 02:26:08.140 | Header: Cache-Control: private
+[00:25:24.531] 02:26:08.140 | Header: Access-Control-Allow-Origin: *
+[00:25:24.531] 02:26:08.140 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[00:25:24.531] 02:26:08.140 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[00:25:24.531] 02:26:08.140 | Header: Access-Control-Expose-Headers: Location
+[00:25:24.531] 02:26:08.140 | Header: Access-Control-Max-Age: 99999
+[00:25:24.531] 02:26:08.140 | Data:
+{"code":104002}
+[00:25:26.781] 02:26:10.385 | Received 400 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage//data/config.json
+[00:25:26.781] 02:26:10.385 | Header: Server: openresty/1.7.4.1
+[00:25:26.781] 02:26:10.385 | Header: Date: Fri, 04 Mar 2016 23:26:15 GMT
+[00:25:26.781] 02:26:10.385 | Header: Content-Type: application/json
+[00:25:26.781] 02:26:10.385 | Header: Content-Length: 15
+[00:25:26.781] 02:26:10.385 | Header: Connection: keep-alive
+[00:25:26.781] 02:26:10.385 | Header: Cache-Control: private
+[00:25:26.781] 02:26:10.385 | Header: Access-Control-Allow-Origin: *
+[00:25:26.781] 02:26:10.385 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[00:25:26.781] 02:26:10.385 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[00:25:26.781] 02:26:10.385 | Header: Access-Control-Expose-Headers: Location
+[00:25:26.781] 02:26:10.385 | Header: Access-Control-Max-Age: 99999
+[00:25:26.781] 02:26:10.386 | Data:
+{"code":104002}
+[00:25:41.031] 02:26:24.638 | Publish Введение(2 pages) to 'http://my1diesign.businesscatalyst.com' completed with 0 warnings.
+[00:28:57.766] 02:29:41.367 | Beginning Save for file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' highest UID:1233
+[00:28:58.562] 02:29:42.167 | Save complete for file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' file size:6914048 mod Date:Sat Mar 5 02:29:41 GMT+0400 2016 highest UID:1233
+[00:28:59.875] 02:29:43.476 | quitWithUI:Quitting Application. Called by: 
+[00:29:00.734] 02:29:44.343 | Quitting Application after 28.9 minutes. Called by: 
+
+==========
+Logging ended at: Sat Mar 05 02:29:50 2016
+
+Logging in build 2015.1.1.21 started at: Sat Mar 05 02:40:20 2016
+========================================
+[00:00:14.000] 02:40:34.277 | Trying to open file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse with size:6914048 mod Date:Sat Mar 5 02:29:41 GMT+0400 2016
+[00:00:14.000] 02:40:34.281 | Opening file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' with status:success size:6914048 mod Date:Sat Mar 5 02:29:41 GMT+0400 2016 highestUID: 1233
+[00:00:30.547] 02:40:50.816 | Received 404 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/page-templates?meta responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/page-templates?meta
+[00:00:30.547] 02:40:50.816 | Header: Server: openresty/1.7.4.1
+[00:00:30.547] 02:40:50.816 | Header: Date: Fri, 04 Mar 2016 23:40:56 GMT
+[00:00:30.547] 02:40:50.816 | Header: Content-Type: application/json
+[00:00:30.547] 02:40:50.816 | Header: Content-Length: 15
+[00:00:30.547] 02:40:50.816 | Header: Connection: keep-alive
+[00:00:30.547] 02:40:50.816 | Header: Cache-Control: private
+[00:00:30.547] 02:40:50.816 | Header: Access-Control-Allow-Origin: *
+[00:00:30.547] 02:40:50.816 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[00:00:30.547] 02:40:50.816 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[00:00:30.547] 02:40:50.816 | Header: Access-Control-Expose-Headers: Location
+[00:00:30.547] 02:40:50.816 | Header: Access-Control-Max-Age: 99999
+[00:00:30.547] 02:40:50.816 | Data:
+{"code":104001}
+[00:00:30.844] 02:40:51.128 | Received 404 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/data?meta responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/data?meta
+[00:00:30.844] 02:40:51.128 | Header: Server: openresty/1.7.4.1
+[00:00:30.844] 02:40:51.128 | Header: Date: Fri, 04 Mar 2016 23:40:56 GMT
+[00:00:30.844] 02:40:51.128 | Header: Content-Type: application/json
+[00:00:30.859] 02:40:51.129 | Header: Content-Length: 15
+[00:00:30.859] 02:40:51.129 | Header: Connection: keep-alive
+[00:00:30.859] 02:40:51.129 | Header: Cache-Control: private
+[00:00:30.859] 02:40:51.129 | Header: Access-Control-Allow-Origin: *
+[00:00:30.859] 02:40:51.129 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[00:00:30.859] 02:40:51.129 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[00:00:30.859] 02:40:51.129 | Header: Access-Control-Expose-Headers: Location
+[00:00:30.859] 02:40:51.130 | Header: Access-Control-Max-Age: 99999
+[00:00:30.859] 02:40:51.130 | Data:
+{"code":104001}
+[00:01:45.640] 02:42:05.924 | quitWithUI:Quitting Application. Called by: 
+[00:01:47.937] 02:42:08.214 | Quitting Application after 1.7 minutes. Called by: 
+
+==========
+Logging ended at: Sat Mar 05 02:42:12 2016
+
+Logging in build 2015.1.1.21 started at: Sat Mar 05 02:43:15 2016
+========================================
+[00:00:13.703] 02:43:31.315 | Trying to open file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse with size:6914048 mod Date:Sat Mar 5 02:29:41 GMT+0400 2016
+[00:00:13.703] 02:43:31.320 | Opening file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' with status:success size:6914048 mod Date:Sat Mar 5 02:29:41 GMT+0400 2016 highestUID: 1233
+[00:00:29.281] 02:43:46.898 | Received 404 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/data?meta responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/data?meta
+[00:00:29.281] 02:43:46.898 | Header: Server: openresty/1.7.4.1
+[00:00:29.281] 02:43:46.898 | Header: Date: Fri, 04 Mar 2016 23:43:52 GMT
+[00:00:29.281] 02:43:46.898 | Header: Content-Type: application/json
+[00:00:29.281] 02:43:46.898 | Header: Content-Length: 15
+[00:00:29.281] 02:43:46.898 | Header: Connection: keep-alive
+[00:00:29.281] 02:43:46.898 | Header: Cache-Control: private
+[00:00:29.281] 02:43:46.898 | Header: Access-Control-Allow-Origin: *
+[00:00:29.281] 02:43:46.899 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[00:00:29.281] 02:43:46.899 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[00:00:29.281] 02:43:46.899 | Header: Access-Control-Expose-Headers: Location
+[00:00:29.281] 02:43:46.899 | Header: Access-Control-Max-Age: 99999
+[00:00:29.281] 02:43:46.899 | Data:
+{"code":104001}
+[00:00:29.515] 02:43:47.133 | Received 404 response from GET to URL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/page-templates?meta responseURL:https://api-adub.worldsecuresystems.com/api/v1/admin/sites/2508731/storage/page-templates?meta
+[00:00:29.515] 02:43:47.133 | Header: Server: openresty/1.7.4.1
+[00:00:29.515] 02:43:47.133 | Header: Date: Fri, 04 Mar 2016 23:43:52 GMT
+[00:00:29.515] 02:43:47.133 | Header: Content-Type: application/json
+[00:00:29.515] 02:43:47.133 | Header: Content-Length: 15
+[00:00:29.515] 02:43:47.133 | Header: Connection: keep-alive
+[00:00:29.515] 02:43:47.133 | Header: Cache-Control: private
+[00:00:29.515] 02:43:47.133 | Header: Access-Control-Allow-Origin: *
+[00:00:29.515] 02:43:47.133 | Header: Access-Control-Allow-Headers: Authorization, Accept-Language, Content-Type
+[00:00:29.515] 02:43:47.134 | Header: Access-Control-Allow-Methods: GET, HEAD, POST, PUT, DELETE
+[00:00:29.515] 02:43:47.134 | Header: Access-Control-Expose-Headers: Location
+[00:00:29.515] 02:43:47.134 | Header: Access-Control-Max-Age: 99999
+[00:00:29.515] 02:43:47.134 | Data:
+{"code":104001}
+[00:08:23.375] 02:51:40.989 | quitWithUI:Quitting Application. Called by: 
+[00:08:24.390] 02:51:42.008 | Beginning Save for file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' highest UID:1245
+[00:08:25.359] 02:51:42.973 | Save complete for file 'C:\Users\akrazer\Desktop\Новая папка\Введение.muse' file size:7012352 mod Date:Sat Mar 5 02:51:42 GMT+0400 2016 highest UID:1245
+[00:08:26.078] 02:51:43.701 | Quitting Application after 8.3 minutes. Called by: 
+
+==========
+Logging ended at: Sat Mar 05 02:51:47 2016
+
+Logging in build 2015.1.1.21 started at: Fri Mar 25 00:16:59 2016
+========================================
+[00:01:35.016] 00:18:44.967 | quitWithUI:Quitting Application. Called by: 
+[00:01:35.016] 00:18:44.970 | Quitting Application after 1.5 minutes. Called by: 
+
+==========
+Logging ended at: Fri Mar 25 00:18:53 2016
+
+Logging in build 2015.1.2.44 started at: Tue Aug 01 11:14:11 2017
+========================================
+
+==========
+Logging ended at: Tue Aug 01 11:14:52 2017
+
+Logging in build 2015.1.2.44 started at: Tue Aug 01 11:20:52 2017
+========================================
+Logging in build 2015.1.2.44 started at: Sun Nov 19 13:00:22 2017
+========================================
+
+==========
+Logging ended at: Sun Nov 19 13:00:38 2017
+
